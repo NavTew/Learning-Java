@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10c3cacf-7960-4579-84a1-bdcf4b31134e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Multithreading/SharedResources/MyThreadWithSync.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Learning-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Learning-Java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,11 +33,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.FrequentlyUsedFrameworks.executor": "Run",
+    "Application.ListInterface.executor": "Run",
     "Application.MainThreadOnlyClass.executor": "Run",
+    "Application.MapInterface.executor": "Run",
     "Application.MultipleThreadsClassMainDoesntWait.executor": "Run",
     "Application.MultipleThreadsClassMainWaits.executor": "Run",
     "Application.MyThread.executor": "Run",
     "Application.MyThreadWithSync.executor": "Run",
+    "Application.SetInterface.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
