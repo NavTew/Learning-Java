@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10c3cacf-7960-4579-84a1-bdcf4b31134e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ErrorHandling/ErrorHandling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Learning-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Learning-Java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -33,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ErrorHandling.executor": "Run",
     "Application.FrequentlyUsedFrameworks.executor": "Run",
     "Application.ListInterface.executor": "Run",
     "Application.MainThreadOnlyClass.executor": "Run",
